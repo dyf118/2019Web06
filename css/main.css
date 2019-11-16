@@ -1,0 +1,55 @@
+@charset "utf-8";
+div{
+		width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		margin-top: 0;
+		margin-bottom: 50px;
+		padding-bottom:  5px;
+		padding-top: 5px;
+		padding-left: 20px;
+		padding-right: 20px;
+		background-color:moccasin;
+		
+		}
+	
+	div1{
+		width: 0;
+		height: 0;
+		margin: 20px auto;
+		border: 20px solid red;
+		border-bottom: none;
+		border-left-color: transparent;
+		border-right-color: transparent;
+	
+		}
+	body{background-color:salmon;color:black; font-size:16px;}
+	h1{text-align:center;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";color: #009999}
+	h2{text-align:left;font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";color: #009999}
+	p{line-height: 2em}
+	p.begina{text-align:center;font-size: 24px;}
+	a{text-decoration: none;}
+	a{color: mediumvioletred;}
+	p#p1{text-align:left;font-size: 23px;color: darkcyan}
+	p#p2{text-align:left;font-size: 22px;color: darkgreen}
+	p#p3{text-align:left;font-size: 21px;color: darkslategrey}
+	p#p4{text-align:left;font-size: 20px;color: darkolivegreen}
+	.1{text-indent: 20px;}
+	ul{
+		padding: 20px;
+		border: 1px solid #D59718;
+	}
+	li{	
+		height: 40px;		
+		font-size: 24px;
+		color:darkorange;
+		line-height: 40px;
+		border-bottom: 4px dotted green;
+		}
+	.normal:hover{
+			background-color: sandybrown;
+				
+		}
+	
+/* CSS Document */
+
